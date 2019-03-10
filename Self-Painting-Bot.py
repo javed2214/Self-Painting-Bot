@@ -1,4 +1,4 @@
-# Painting Bot using PyautoGUI
+# Self Painting Bot using PyautoGUI
 
 import pyautogui
 import time
